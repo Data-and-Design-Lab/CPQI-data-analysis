@@ -1,0 +1,7 @@
+Feeder Name,SAIFI,SAIDI_min,CAIDI_min,MTTR (hr),Mean_Voltage,Mean_PF,Mean_Loading,Number_of_Outages,Complaint_Count,Composite_Indicator_Percent,Cluster_Label,Cluster
+Sreepur-1 F5,0.9,75,83.33,1.39,63.4,0.86,26.5,5,14,99.45,Cluster 1,1
+Gacha-1 F3,1.2,95,79.17,1.32,63.2,0.86,26.5,7,18,98.35,Cluster 1,1
+Sreepur-8 F2,1.4,115,82.14,1.37,62.9,0.86,26.5,8,21,96.69,Cluster 1,1
+Joydebpur-7 F5,2.8,210,75.0,1.25,62.1,0.86,26.5,16,38,92.28,Cluster 2,2
+Gacha-1 F4,4.5,340,75.56,1.26,60.8,0.86,26.5,27,65,85.12,Cluster 2,2
+Sreepur-7 F1,5.2,420,80.77,1.35,59.2,0.86,26.5,31,82,76.3,Cluster 2,2

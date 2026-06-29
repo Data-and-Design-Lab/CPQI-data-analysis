@@ -1,0 +1,11 @@
+Operational Feature Metric,PC1 Loading Score,PC2 Loading Score
+SAIFI,0.3966,0.0466
+SAIDI_min,0.3947,0.0941
+CAIDI_min,-0.2019,0.6677
+MTTR (hr),-0.195,0.6756
+Mean_Voltage,-0.3851,-0.1878
+Mean_PF,-0.0,0.0
+Mean_Loading,-0.0,0.0
+Number_of_Outages,0.3962,0.0521
+Complaint_Count,0.3931,0.1161
+Composite_Indicator_Percent,-0.3851,-0.1878

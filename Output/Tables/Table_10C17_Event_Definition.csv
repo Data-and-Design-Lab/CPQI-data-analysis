@@ -1,0 +1,4 @@
+Event Type,Mathematical Threshold Criteria,Customer Operational Impact Context
+Voltage Violation,V_mean < 0.90 * V_nominal or V_mean > 1.10 * V_nominal,Voltage fluctuations causing industrial trip-outs
+Power Factor Collapse,Mean Power Factor < 0.85 sustained over 1 hr,Reactive penalties and system voltage drops
+Outage Event,V_mean < 0.10 * V_nominal (Zero-voltage configuration),Complete loss of electricity dispatch to downline nodes

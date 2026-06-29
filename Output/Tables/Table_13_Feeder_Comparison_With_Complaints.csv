@@ -1,0 +1,6 @@
+Socio-Technical Metric,Sreepur-1 F5 (Best Technical),Sreepur-7 F1 (Worst Technical),Operational Impact Delta
+Composite CPQI Score (%),88.4,48.9,39.5
+Annual Customer Complaints,14,82,-68
+Avg Dispatch Response Time (Min),35.2,142.4,-107.2
+Grievance Resolution Rate (%),96.1,61.2,34.9
+Assigned Cluster Archetype,"Cluster 1 (High Quality, Low Complaints)","Cluster 2 (Poor Quality, High Complaints)",Significant Service Quality Divergence

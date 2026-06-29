@@ -1,0 +1,21 @@
+Cluster Group,Operational Parameter,Min Value,Max Value
+Cluster 1,SAIFI,0.9,1.4
+Cluster 1,SAIDI_min,75.0,115.0
+Cluster 1,CAIDI_min,79.17,83.33
+Cluster 1,MTTR (hr),1.32,1.39
+Cluster 1,Mean_Voltage,62.9,63.4
+Cluster 1,Mean_PF,0.86,0.86
+Cluster 1,Mean_Loading,26.5,26.5
+Cluster 1,Number_of_Outages,5.0,8.0
+Cluster 1,Complaint_Count,14.0,21.0
+Cluster 1,Composite_Indicator_Percent,96.69,99.45
+Cluster 2,SAIFI,2.8,5.2
+Cluster 2,SAIDI_min,210.0,420.0
+Cluster 2,CAIDI_min,75.0,80.77
+Cluster 2,MTTR (hr),1.25,1.35
+Cluster 2,Mean_Voltage,59.2,62.1
+Cluster 2,Mean_PF,0.86,0.86
+Cluster 2,Mean_Loading,26.5,26.5
+Cluster 2,Number_of_Outages,16.0,31.0
+Cluster 2,Complaint_Count,38.0,82.0
+Cluster 2,Composite_Indicator_Percent,76.3,92.28

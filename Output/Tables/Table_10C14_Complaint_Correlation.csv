@@ -1,0 +1,6 @@
+Parameter,Pearson Correlation (r),p-value
+Complaints vs CPQI,-0.9602,0.0
+Complaints vs UAvg,-0.9163,0.0
+Complaints vs SAIFI,0.9798,0.0
+Complaints vs SAIDI,0.9584,0.0
+Complaints vs PF,0.0542,0.6513

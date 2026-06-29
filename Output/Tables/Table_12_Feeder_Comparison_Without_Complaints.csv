@@ -1,0 +1,7 @@
+Technical Parameter,Sreepur-1 F5 (Best Technical),Sreepur-7 F1 (Worst Technical),Absolute Performance Variance,Dominant Technical Status
+Mean Voltage (kV),11.12,10.65,0.47,Sreepur-1 F5 Stabilized
+Voltage Compliance Rate (%),96.84,48.9,47.94,Sreepur-1 F5 Superior
+Grid Frequency Stability (FSI),0.96,0.88,0.08,Identical/Stable
+Mean Power Factor (Lagging),0.91,0.72,0.19,Sreepur-1 F5 Compliant
+Voltage Harmonics (THDv %),2.1,4.9,-2.8,Sreepur-7 F1 Distorted
+Thermal Loading Factor,0.58,0.91,-0.33,Sreepur-7 F1 Overloaded

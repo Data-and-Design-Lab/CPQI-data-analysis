@@ -1,0 +1,5 @@
+Variable,Coefficient,p-value,Model R-Squared
+Intercept,94.5442,0.0,0.9952
+CPQI,-1.1485,0.001,0.9952
+SAIFI,8.3776,0.001,0.9952
+PF,27.9463,0.001,0.9952

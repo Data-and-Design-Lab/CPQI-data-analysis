@@ -1,0 +1,7 @@
+Feeder Name,Cluster ID,Assigned Group Name,CPQI Value (%)
+Sreepur-1 F5,1,Cluster 1,99.45
+Gacha-1 F3,1,Cluster 1,98.35
+Sreepur-8 F2,1,Cluster 1,96.69
+Joydebpur-7 F5,2,Cluster 2,92.28
+Gacha-1 F4,2,Cluster 2,85.12
+Sreepur-7 F1,2,Cluster 2,76.3
