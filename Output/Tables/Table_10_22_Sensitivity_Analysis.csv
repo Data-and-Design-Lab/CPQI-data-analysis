@@ -1,0 +1,7 @@
+Indicator Weight,Perturbation State,Original CPQI Mean (%),Recalculated CPQI Mean (%),Absolute Effect on CPQI (%),Sensitivity Status
+Voltage Stability Weight,+10% Shift,71.06,71.85,0.79,Stable/Robust
+Voltage Stability Weight,-10% Shift,71.06,70.22,-0.84,Stable/Robust
+Reliability Index Weight,+10% Shift,71.06,72.4,1.34,High Dominance
+Reliability Index Weight,-10% Shift,71.06,69.75,-1.31,High Dominance
+Availability Weight,+10% Shift,71.06,71.32,0.26,Low Sensitivity
+Availability Weight,-10% Shift,71.06,70.81,-0.25,Low Sensitivity

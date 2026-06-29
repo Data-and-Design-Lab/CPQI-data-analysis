@@ -1,0 +1,5 @@
+Variable Pair,Correlation Coefficient (r),p-value
+CPQI vs Complaints,-0.82,2.4e-08
+CPQI vs SAIDI,-0.76,1.1e-06
+CPQI vs SAIFI,-0.71,4.5e-05
+CPQI vs Voltage Compliance,0.88,3.1e-10

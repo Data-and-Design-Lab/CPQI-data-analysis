@@ -1,0 +1,7 @@
+Feeder Name,Substation Location,Voltage Level (kV),Consumer Type Profile
+GACHA 1 F3,Gacha Substation,11.0,Commercial/Residential
+GACHA 1 F4,Gacha Substation,11.0,Industrial Heavy
+SREEPUR 1 F5,Sreepur Substation,11.0,Residential/Agricultural
+JOYDEBPUR 7 F5,Joydebpur Substation,11.0,Mixed Commercial
+SREEPUR 7 F1,Sreepur Substation,11.0,Industrial Stressed
+SREEPUR 8 F2,Sreepur Substation,11.0,Stabilized Industrial

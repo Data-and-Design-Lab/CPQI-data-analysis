@@ -1,0 +1,6 @@
+Parameter,Nominal / Target Value,Allowable Boundary Limits,Reference Standard Standardized
+Voltage Variation,63.5 V (Line-to-Neutral),±10% (57.15 V – 69.85 V),IEEE 1159 / Grid Code
+Grid Frequency,50.0 Hz,±1.0% (49.50 Hz – 50.50 Hz),Bangladesh Grid Standard
+Power Factor (Lagging),0.95 Target,Minimum 0.85 Penalty Threshold,BERC Regulations
+Voltage Harmonics (THDv),0.0 %,Maximum 5.0% Limit,IEEE 519-2022
+Current Harmonics (THDi),0.0 %,Maximum 8.0% Limit,IEEE 519-2022

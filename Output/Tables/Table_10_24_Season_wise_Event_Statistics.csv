@@ -1,0 +1,5 @@
+Season,Total Interruption Events,Voltage Excursion Rate (%),Mean Power Factor (Lagging),Seasonal Average CPQI (%)
+Summer,58,14.2,0.84,64.2
+Rainy (Monsoon),84,18.5,0.88,58.8
+Autumn,19,4.1,0.91,78.5
+Winter,24,6.8,0.89,74.1

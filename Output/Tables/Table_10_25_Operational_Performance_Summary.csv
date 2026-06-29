@@ -1,0 +1,6 @@
+Metric Category,Worst Recorded Feeder Profile,Best Recorded Feeder Profile,Global Fleet Average
+Voltage Compliance Rate (%),48.90% (Sreepur 7 F1),88.40% (Sreepur 1 F5),71.06
+Frequency Stability Index (FSI),0.46 (Sreepur 7 F1),0.92 (Sreepur 1 F5),0.74
+Power Factor Violations Count,68 Over-Limit (Gacha 1 F4),11 Over-Limit (Sreepur 1 F5),34.5
+System Reliability (SAIDI - Min),420 Min (Sreepur 7 F1),75 Min (Sreepur 1 F5),209.1
+Total Customer Grievances,82 Dispatches (Sreepur 7 F1),14 Dispatches (Sreepur 1 F5),42.5

@@ -1,0 +1,5 @@
+Predictor Parameter,Coefficient Value,Standard Error,t-Statistic,p-value,Overall Model R-Squared
+Intercept,142.5,12.4,11.49,1e-12,0.784
+Voltage Compliance,-1.25,0.14,-8.93,4.2e-09,0.784
+SAIFI,8.42,0.95,8.86,1.1e-08,0.784
+Power Factor,-45.1,6.2,-7.27,8.5e-07,0.784

@@ -1,0 +1,4 @@
+Target Predicted Variable,Model Architecture,Mean Absolute Error (MAE),Root Mean Squared Error (RMSE),Mean Absolute Percentage Error (MAPE %),R-Squared ($R^2$) Score
+CPQI Grid Index Score,Multiple Linear Regression (MLR),1.42,2.1,2.15,0.894
+Monthly Consumer Complaints,Poisson Count Regression,2.15,3.8,6.42,0.784
+Peak Feeder Loading (A),Quadratic Loss Polynomial,3.48,5.12,4.1,0.842

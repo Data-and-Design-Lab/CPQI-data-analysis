@@ -1,0 +1,6 @@
+Framework Pillar Component,Assigned Linear Weight ($W_i$),Percentage Contribution (%),Engineering Optimization Justification
+Voltage Score ($S_V$),0.35,35.0,Primary indicator for grid stability and drop susceptibility.
+Frequency Score ($S_F$),0.2,20.0,Global grid balance tracker matching load-generation conditions.
+Power Factor Score ($S_{PF}$),0.2,20.0,Direct driver for reactive penalty validation and losses.
+Harmonics Distortion Score ($S_H$),0.15,15.0,Tracks equipment lifecycle limits and waveform cleanly.
+Thermal Loading Score ($S_L$),0.1,10.0,Thermal limit monitor to check system loading capabilities.

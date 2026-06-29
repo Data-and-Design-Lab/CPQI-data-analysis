@@ -1,0 +1,6 @@
+Event,Count,Avg Duration (Minutes),Avg CPQI Reduction (%)
+Sustained Outage,14,112.5,79.1
+Transient Voltage Sag,42,4.2,38.5
+Voltage Swell,11,8.5,22.4
+Low Power Factor,68,145.0,18.2
+High Loading Stress,35,78.2,14.5

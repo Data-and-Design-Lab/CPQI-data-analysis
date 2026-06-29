@@ -1,0 +1,6 @@
+Event,Before (%),During (%),Difference (%),p-value
+Sustained Outage,85.5,4.2,-81.3,1.1e-09
+Voltage Sag,86.2,44.5,-41.7,4.2e-07
+Voltage Swell,84.8,61.2,-23.6,0.00018
+Low Power Factor,88.1,68.5,-19.6,2.1e-05
+High Loading,85.2,70.4,-14.8,0.00035

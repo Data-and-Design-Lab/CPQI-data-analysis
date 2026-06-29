@@ -1,0 +1,4 @@
+Hypothesis Test Target,Applied Methodology,Test Statistic,p-value,Inference/Decision
+CPQI Variance Across State Profiles,Kruskal-Wallis Non-Parametric ANOVA,79.12088,0.0,Reject Null (Significant)
+CPQI vs Customer Experience Tiers,Wilcoxon Signed-Rank Test,42.5,0.0,Reject Null (Significant)
+Voltage Drop Sensitivity Correlation,Paired t-Test Matrix,8.86,0.0,Reject Null (Significant)
